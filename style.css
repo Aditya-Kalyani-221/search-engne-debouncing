@@ -1,0 +1,19 @@
+body {
+  font-family: sans-serif;
+  justify-content: center;
+  line-height: 1.5;
+}
+
+.hide {
+	display: none;
+}
+
+.show {
+	display: block;
+}
+
+.result-box {
+	width: 175px !important;
+	height: 200px !important;
+	background-color: lightgrey;
+}
